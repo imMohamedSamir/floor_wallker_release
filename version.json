@@ -1,0 +1,10 @@
+{
+  "version": "1.0.1",
+  "build_number": 6,
+  "apk_url": "https://github.com/user/app/releases/download/v1.0.1/app-release.apk",
+  "force_update": false,
+  "changelog": [
+    "Fix login",
+    "Improve speed"
+  ]
+}
